@@ -28,3 +28,11 @@
 
 >(5) Data collected will only be from reliable, known sources and therefore will be of quality since the data is used in other international researchers.  
 
+<ins> (F) Tools ? <ins>
+>Quantitative data in time series will be collected and if necessary be manipulated and rearranged accordingly through Microsoft Excel. The data collected then will be imported to Tableau to visualize in possible line chart for time series data to make inference from past to predict future as well as bar chart to analyze current economic data. May have the possibility to conjoin bar chart and line chart as well as Pie Chart to visualize the factors percentage combing to form the current economy. 
+
+<ins> (G) What's New ? <ins> 
+>Anticipated to find correlation between factors, such as unemployment and workers productivity, which will then lead on to the level effectiveness each factor has to contribute for economic growth
+
+<ins> (H) So What? <ins> 
+>The analysis performed will be of use to the Indian Government to improve their economic growth. They will also have insight on how their economy has faired in the recent years and their current  standing. Therefore, from the analysis provided from the research the government would be able to implement the right policies in legal manner. Successful implementation and an accomplished higher growth of the economy will allow the Indian citizens to have more trust on their government as well as give confidence for foreign direct investors which will further strengthen the economy. This will also put India on the ladder to higher ranking economy along side first world countries.  
