@@ -41,4 +41,4 @@
 >The main audience for this pitch is the Indian Government in hopes to increase their economic growth. The data analysis along with the infographic will also aid investors and foreign companies in investment decisions within the emerging economy.
 
 <ins> (J) Other Considerations ? <ins>
-This pitch will only be focusing only several factors of Economic Indicators as well as Economic Coincident Factors. There are many more factors which would affect the growth of the economy which would also include qualitive (text-based) data that is difficult and time consuming in order to analyze and will not be able to include accordingly in the given time frame and manpower for the project. 
+>This pitch will only be focusing only several factors of Economic Indicators as well as Economic Coincident Factors. There are many more factors which would affect the growth of the economy which would also include qualitive (text-based) data that is difficult and time consuming in order to analyze and will not be able to include accordingly in the given time frame and manpower for the project. 
