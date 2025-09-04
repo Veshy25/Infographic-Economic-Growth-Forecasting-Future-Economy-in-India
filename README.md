@@ -17,3 +17,11 @@ One of the factors that contribute towards power ranking of a country is its eco
 The Core idea here is that by looking at data on Economic Coincident factors such as, employment, real earning, unemployment rate and average weekly hours worked in manufacturing, the government of India would be able to analyze the current state of the economy. Further the Indian government would then collect data on Economic Indicators such as inflation, interest rates, industrial production, worker productivity, retail sales and real GDP. These indicators would allow us to analyze the economic performance and be able to predict the future state of the economy.  After analyzing and figuring on which factors are hindering a higher economic growth, the Indian government will then have the chance to implement different policies accordingly. In the end the aim is to increase India’s future economy by implementing policies. 
 
 <ins>(E) Data? : <ins> 
+
+(1) The data type proposed for this pitch would be country specific, which will be looking for data collected on India, as the focus is on improving India’s economic growth. Data that will be used are on Economic Coincident factors as well as Economic indicator which would have the years ranging from 2000 – 2020 at an annual sample interval. 
+(2) Sample Size: Focusing on one country, India’s, Economic Coincident Factors and Economic Indicator. The data for the factors will follow time-series and panel set in order analyze how the economy has fared, their current economy growth as well as to be able to predict the future economy.  
+(3) Data Source(s): All data collected would be from past and previous years available from sites such as “Data World : https://data.world/ ” , “Federal Bank of St. Louis : https://fred.stlouisfed.org/” , “https://www.investing.com/” and “Trading Economic : https://tradingeconomics.com/”  
+(4) The collected data may need to be converted in units, or rearranged accordingly to be able to make proper inference when creating charts and infographics. May not have any issues with missing data in the required time frame for the needed factors. 
+
+
+
